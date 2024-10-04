@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App; // Exporting the App component for use in other parts of the application
+export default App; // Exporting the App component for use in other parts of the app
